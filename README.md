@@ -5,7 +5,7 @@ This repository contains documentation for the paper *“The influence of board 
 ## Paper
 
 - **Title:** The influence of board interlocks and sustainability experience on transparent sustainability disclosure  
-- **Authors:** Jessie Lu, D. Yu, F. Mahmoudian, J. A. Nazari, & I. M. Herremans  
+- **Authors:** J. Lu, D. Yu, F. Mahmoudian, J. A. Nazari, & I. M. Herremans  
 - **Journal:** *Business Strategy and the Environment*, 33(5) (2024)  
 - **DOI:** [https://doi.org/10.1002/bse.3678](https://doi.org/10.1002/bse.3678)  
 - **Ranking / Impact:** ABDC A · Impact Factor 13.3
