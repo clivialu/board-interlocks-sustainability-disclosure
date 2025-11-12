@@ -21,10 +21,10 @@ The findings highlight how social and experiential connections among boards can 
 | # | Why it matters | What the paper delivers |
 |---|---------------|-------------------------|
 | **1** | **Boards can import transparency know‑how.** Firms struggle to make sustainability reporting credible. | Evidence from **S&P 1500 (2009‑2018)** shows that boards with interlocked directors who have prior sustainability‑committee experience produce markedly more transparent disclosure.  |
-| **2** | **Diversity of network ties > echo chambers.** Relying only on same‑industry peers risks group‑think. | A broader mix of **similar and dissimilar‑industry interlocks** is positively linked to transparency, confirming learning benefits from heterogeneous knowledge sources. |
+| **2** | **Diversity of network ties.** Relying only on same‑industry peers risks group‑think. | A broader mix of **similar and dissimilar‑industry interlocks** is positively linked to transparency, confirming learning benefits from heterogeneous knowledge sources. |
 | **3** | **Tap the ‘best reporters.’** Benchmarking leaders accelerates improvement. | Interlocks with firms known for *superior* transparency boost the focal firm’s disclosure quality. |
 | **4** | **Experience isn’t enough—board design amplifies it.** Governance levers can multiply learning effects. | Sustainability experience interacts with **gender diversity and board independence** to further enhance transparency.  |
-| **5** | **Rock‑solid evidence base.** Managers want confidence before reshaping boards. | Robustness checks—propensity score matching, fixed‑effects, and entropy balancing—consistently uphold all hypotheses.  |
+| **5** | **Strong evidence base.** Managers want confidence before reshaping boards. | Robustness checks—propensity score matching, fixed‑effects, and entropy balancing—consistently uphold all hypotheses.  |
 
 
 ## Managerial Takeaways
