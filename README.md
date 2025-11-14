@@ -17,7 +17,7 @@ This study looks at how the relationships between company boards, known as *boar
 We show that when directors are linked to other boards that value sustainability, or when they themselves have relevant experience, their companies tend to be more open and comprehensive in their sustainability reporting.  
 The findings highlight how social and experiential connections among boards can drive corporate transparency.
 
-## Paper Highlights: 
+## Paper Highlight: 
 | # | Why it matters | What the paper delivers |
 |---|---------------|-------------------------|
 | **1** | **Boards can import transparency know‑how.** Firms struggle to make sustainability reporting credible. | Evidence from **S&P 1500 (2009‑2018)** shows that boards with interlocked directors who have prior sustainability‑committee experience produce markedly more transparent disclosure.  |
